@@ -4,4 +4,37 @@
 
 /* write your rules below  this line*/
 
+.dark-bg{
+    background-color: rgb(246, 246, 134);
+}
 
+.light-text {
+    color: blue;
+}
+
+.rounded {
+    border-radius: 10px;
+}
+
+.spaced-out {
+    padding: 20px;
+}
+
+#page-title {
+    font-size: 48px;
+    text-align: center;
+}
+
+.card {
+    background-color: red;
+    border: 20px;
+    padding: 20px;
+}
+
+.warning {
+    color: red;
+}
+
+.img-style {
+    border-radius: 20px;
+}
